@@ -88,3 +88,25 @@ Done with the main task? Here's some ideas for things to continue with:
 - [How to make a circle in CSS](https://davidwalsh.name/css-circles)
 - [nth-child in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
 - [CSS Cursor Property](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
+
+
+<div class="section">
+        <div class="title" id="section1">Section 1</div>
+        <div class="description">
+          <p>Lorem ipsum...</p>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="title" id="section2">Section 2</div>
+        <div class="description">
+          <p>Lorem ipsum...</p>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="title" id="section3">Section 3</div>
+        <div class="description">
+          <p>Lorem ipsum...</p>
+        </div>
+      </div>
